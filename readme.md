@@ -1,3 +1,5 @@
+`基础知识部分采用思维导图的方式组织，请使用 mindmaster 打开`
+
 #### 1 关于算法
 
 参看：https://www.jianshu.com/p/7875bed2704e
